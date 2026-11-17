@@ -1,0 +1,3 @@
+{ "name": "PADRAIC HESSION", "short_name": "PADRAIC HESSION", "start_url": "/phe-site/", "scope": "/phe-site/",
+  "display": "standalone", "background_color": "#0B121C", "theme_color": "#00629F",
+  "icons": [{ "src": "/phe-site/apple-touch-icon.png", "sizes": "1024x1024", "type": "image/png" }] }
